@@ -2,7 +2,7 @@
 
 A curated artbook-style archive of the artwork of *Ratchet & Clank: Ranger Rumble* (mobile), put together for preservation before the game's servers close on 1 May 2027.
 
-**525 images**, sorted by theme
+**525 images**, sorted by theme.
 
 ## Contents
 
