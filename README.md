@@ -11,8 +11,8 @@ A curated artbook-style archive of the artwork of *Ratchet & Clank: Ranger Rumbl
 | 01 Key Art & Promotion | 34 | Promotional character renders, key art illustrations, logos and official screenshots |
 | 02 Concept Art | 34 | Character turnarounds, enemies, environments and weapon concepts |
 | 03 Heroes | 127 | Every hero costume portrait (named after the in-game costume), hero emblems and mini portraits |
-| 04 Supporting Characters | 26 | Qwark, Ratchet, Rivet, Clank, Ms. Zurkon, Reebo and other dialogue portraits |
-| 05 Weapons | 88 | All weapon and gadget illustrations, including early designs from version 1.1.0 |
+| 04 Supporting Characters | 26 | Qwark, Ratchet, Rivet, Clank, Mrs. Zurkon, Reebo and their dialogue portraits |
+| 05 Weapons & Gadgets | 88 | Weapons, melee weapons, gadgets and ultimates, with their early designs from version 1.1.0 |
 | 06 Game Modes | 60 | Comic-strip mode artwork and mode card illustrations |
 | 07 Worlds & Maps | 72 | Planets, map illustrations, adventure track and Medal Run backdrops, map screenshots |
 | 08 Story & Adventure | 33 | Player Journey chapter banners and tutorial art |
@@ -22,7 +22,7 @@ A curated artbook-style archive of the artwork of *Ratchet & Clank: Ranger Rumbl
 
 ## Naming
 
-- Heroes and costumes use their in-game English names (for example *Sparky*, *Widget*, *Tempest*, *Zed*, *Rebel Widget*).
+- Every name is the official English name used by the game: heroes (*Sparky*, *Widget*, *Tempest*, *Zed*...), costumes (*Rebel Widget*), weapons, gadgets, ultimates, maps (*Biting Swamp*), modes and ranks.
 - **(removed)** marks artwork that no longer exists in the last version of the game (1.10.4).
 - **(early version, 1.x)** marks an older design that was later redrawn or recoloured.
 

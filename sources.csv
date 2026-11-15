@@ -8,12 +8,6 @@ file,source,internal name
 01 Key Art & Promotion/Character Renders/Tempest.png,Ratchet & Clank Wiki (Fandom),Markus Tempest promo render.png
 01 Key Art & Promotion/Character Renders/Mopz.png,Ratchet & Clank Wiki (Fandom),Mopz promo render.png
 01 Key Art & Promotion/Character Renders/Qwark.png,Ratchet & Clank Wiki (Fandom),Qwark from RR promo render.png
-01 Key Art & Promotion/Screenshots/Intro Cutscene.png,Ratchet & Clank Wiki (Fandom),Ranger Rumble cutscene intro.png
-01 Key Art & Promotion/Screenshots/Gameplay 1.png,Ratchet & Clank Wiki (Fandom),Ranger Rumble promo gameplay 1.png
-01 Key Art & Promotion/Screenshots/Gameplay 2.png,Ratchet & Clank Wiki (Fandom),Ranger Rumble promo gameplay 2.png
-01 Key Art & Promotion/Screenshots/Gameplay 3.png,Ratchet & Clank Wiki (Fandom),Ranger Rumble promo gameplay 3.png
-01 Key Art & Promotion/Screenshots/Gameplay 4.png,Ratchet & Clank Wiki (Fandom),Ranger Rumble promo gameplay 4.png
-01 Key Art & Promotion/Screenshots/Gameplay 5.png,Ratchet & Clank Wiki (Fandom),Ranger Rumble promo gameplay 5.png
 01 Key Art & Promotion/Character Renders/Ratchet.png,Ratchet & Clank Wiki (Fandom),Ratchet from RR promo render.png
 01 Key Art & Promotion/Character Renders/Rivet.png,Ratchet & Clank Wiki (Fandom),Rivet from RR render.png
 01 Key Art & Promotion/Character Renders/Sparky.png,Ratchet & Clank Wiki (Fandom),Sparky promo render.png
@@ -21,18 +15,24 @@ file,source,internal name
 01 Key Art & Promotion/Character Renders/Wendy Warloff.png,Ratchet & Clank Wiki (Fandom),Wendy Warloff promo render.png
 01 Key Art & Promotion/Character Renders/Widget.png,Ratchet & Clank Wiki (Fandom),Widget promo render.png
 01 Key Art & Promotion/Character Renders/Zed.png,Ratchet & Clank Wiki (Fandom),Zed One promo render.png
-01 Key Art & Promotion/Illustrations/Steeljaw Key Art.png,Collector archive (official concept art),image.png
-01 Key Art & Promotion/Illustrations/Ratchet Joins the Simulation.png,"Game files, version 1.10.4",RatchetJoinsTheSimulation_Illustration
+01 Key Art & Promotion/Illustrations/Steeljaw - Key Art.png,Collector archive (official concept art),image.png
+01 Key Art & Promotion/Illustrations/Ratchet & Clank Visit the Simulation.png,"Game files, version 1.10.4",RatchetJoinsTheSimulation_Illustration
 01 Key Art & Promotion/Illustrations/Rescue Mopz.png,"Game files, version 1.10.4",RescueMopz_Illustration
 01 Key Art & Promotion/Illustrations/Rivet's Challenge.png,"Game files, version 1.10.4",RivetsChallenge_Illustration
-01 Key Art & Promotion/Illustrations/Qwark and Rivet.png,"Game files, version 1.10.4",RatingIllu
-"01 Key Art & Promotion/Illustrations/Qwark and Rivet (early version, 1.4.2).png","Game files, version 1.4.2",RatingIllu
+01 Key Art & Promotion/Illustrations/Qwark & Rivet.png,"Game files, version 1.10.4",RatingIllu
+"01 Key Art & Promotion/Illustrations/Qwark & Rivet (early version, 1.4.2).png","Game files, version 1.4.2",RatingIllu
 01 Key Art & Promotion/Illustrations/Join the Rangers.png,"Game files, version 1.10.4",Illu_Join
 01 Key Art & Promotion/Illustrations/Team Up.png,"Game files, version 1.10.4",Illu_TeamUp
 01 Key Art & Promotion/Illustrations/Main Menu Mockup (removed).png,"Game files, version 1.10.2",MainMenu2_v2
-01 Key Art & Promotion/Logos/Ratchet & Clank Ranger Rumble Logo.png,"Game files, version 1.10.4",LogoHD
+01 Key Art & Promotion/Logos/Ratchet & Clank- Ranger Rumble.png,"Game files, version 1.10.4",LogoHD
 01 Key Art & Promotion/Logos/Galactic Rangers Emblem.png,"Game files, version 1.10.4",Galactic_Rangers_Logo
 01 Key Art & Promotion/Logos/Website Header.png,"Game files, version 1.10.4",RR_header_website_BG
+01 Key Art & Promotion/Screenshots/Intro Cutscene.png,Ratchet & Clank Wiki (Fandom),Ranger Rumble cutscene intro.png
+01 Key Art & Promotion/Screenshots/Gameplay 1.png,Ratchet & Clank Wiki (Fandom),Ranger Rumble promo gameplay 1.png
+01 Key Art & Promotion/Screenshots/Gameplay 2.png,Ratchet & Clank Wiki (Fandom),Ranger Rumble promo gameplay 2.png
+01 Key Art & Promotion/Screenshots/Gameplay 3.png,Ratchet & Clank Wiki (Fandom),Ranger Rumble promo gameplay 3.png
+01 Key Art & Promotion/Screenshots/Gameplay 4.png,Ratchet & Clank Wiki (Fandom),Ranger Rumble promo gameplay 4.png
+01 Key Art & Promotion/Screenshots/Gameplay 5.png,Ratchet & Clank Wiki (Fandom),Ranger Rumble promo gameplay 5.png
 02 Concept Art/Characters/Chance - Turnaround.png,Collector archive (official concept art),Chance_turn.png
 02 Concept Art/Characters/Crumby - Turnaround.png,Collector archive (official concept art),Crumby_turn.png
 02 Concept Art/Characters/Flare - Turnaround.png,Collector archive (official concept art),Flare_turn.png
@@ -48,7 +48,7 @@ file,source,internal name
 02 Concept Art/Characters/Ratchet - Concept Art.png,Collector archive (official concept art),RCRR_ConceptArt_Ratchet.png
 02 Concept Art/Characters/Rivet - Concept Art.png,Collector archive (official concept art),RCRR_ConceptArt_Rivet.png
 02 Concept Art/Weapons/Scorpion Flail.png,Collector archive (official concept art),Scorpion_Flail.png
-02 Concept Art/Environments/Black Market.png,Ratchet & Clank Wiki (Fandom),Black Market concept art.png
+02 Concept Art/Environments/Blackmarket.png,Ratchet & Clank Wiki (Fandom),Black Market concept art.png
 02 Concept Art/Weapons/Burst Pistol.png,Ratchet & Clank Wiki (Fandom),Burst Pistol from RR concept art.png
 02 Concept Art/Characters/Celeste - Turnaround.png,Ratchet & Clank Wiki (Fandom),Celeste concept art.png
 02 Concept Art/Characters/Chip - Turnaround.png,Ratchet & Clank Wiki (Fandom),Chip concept art.png
@@ -59,7 +59,7 @@ file,source,internal name
 02 Concept Art/Characters/Tempest - Turnaround.png,Ratchet & Clank Wiki (Fandom),Markus Tempest concept art.png
 02 Concept Art/Characters/Mopz - Turnaround.png,Ratchet & Clank Wiki (Fandom),Mopz concept art.png
 02 Concept Art/Enemies & Bosses/Nefarious Juggernaut.png,Ratchet & Clank Wiki (Fandom),Nefarious Juggernaut from RR concept art.png
-02 Concept Art/Characters/Zed - Pirate Costume.png,Ratchet & Clank Wiki (Fandom),Pirate Zed skin concept art.png
+02 Concept Art/Characters/Pirate Zed - Concept Art.png,Ratchet & Clank Wiki (Fandom),Pirate Zed skin concept art.png
 02 Concept Art/Environments/Qwark Tower 1.png,Ratchet & Clank Wiki (Fandom),Qwark Tower concept art 1.png
 02 Concept Art/Environments/Qwark Tower 2.png,Ratchet & Clank Wiki (Fandom),Qwark Tower concept art 2.png
 02 Concept Art/Environments/Qwark Tower 3.png,Ratchet & Clank Wiki (Fandom),Qwark Tower concept art 3.png
@@ -74,10 +74,10 @@ file,source,internal name
 03 Heroes/Costumes/Celeste/05 Qwark Force Celeste.png,"Game files, version 1.10.4",Celeste_05
 03 Heroes/Costumes/Celeste/06 Blackwater Celeste.png,"Game files, version 1.10.4",Celeste_06
 03 Heroes/Costumes/Chance/00 Default.png,"Game files, version 1.10.4",Chance_00
-03 Heroes/Costumes/Chance/01 Costume 01.png,"Game files, version 1.10.4",Chance_01
-03 Heroes/Costumes/Chance/02 Costume 02.png,"Game files, version 1.10.4",Chance_02
-03 Heroes/Costumes/Chance/03 Costume 03.png,"Game files, version 1.10.4",Chance_03
-03 Heroes/Costumes/Chance/04 Costume 04.png,"Game files, version 1.10.4",Chance_04
+03 Heroes/Costumes/Chance/01 Costume.png,"Game files, version 1.10.4",Chance_01
+03 Heroes/Costumes/Chance/02 Costume.png,"Game files, version 1.10.4",Chance_02
+03 Heroes/Costumes/Chance/03 Costume.png,"Game files, version 1.10.4",Chance_03
+03 Heroes/Costumes/Chance/04 Costume.png,"Game files, version 1.10.4",Chance_04
 03 Heroes/Costumes/Chip/00 Default.png,"Game files, version 1.10.4",Chip_00
 03 Heroes/Costumes/Chip/01 Nefarious Chip.png,"Game files, version 1.10.4",Chip_01
 03 Heroes/Costumes/Chip/02 Amoeboid Chip.png,"Game files, version 1.10.4",Chip_02
@@ -101,9 +101,9 @@ file,source,internal name
 03 Heroes/Costumes/Grimshot/05 Dreadzone Grimshot.png,"Game files, version 1.10.4",Grimshot_05
 03 Heroes/Costumes/Helen/00 Default.png,"Game files, version 1.10.4",Helen_00
 03 Heroes/Costumes/Helen/01 Dimensional Helen.png,"Game files, version 1.10.4",Helen_01
-03 Heroes/Costumes/Helen/02 Costume 02.png,"Game files, version 1.10.4",Helen_02
-03 Heroes/Costumes/Helen/03 Costume 03.png,"Game files, version 1.10.4",Helen_03
-03 Heroes/Costumes/Helen/04 Costume 04.png,"Game files, version 1.10.4",Helen_04
+03 Heroes/Costumes/Helen/02 Costume.png,"Game files, version 1.10.4",Helen_02
+03 Heroes/Costumes/Helen/03 Costume.png,"Game files, version 1.10.4",Helen_03
+03 Heroes/Costumes/Helen/04 Costume.png,"Game files, version 1.10.4",Helen_04
 03 Heroes/Costumes/Lil'Ann/00 Default.png,"Game files, version 1.10.4",LilAnn_00
 03 Heroes/Costumes/Lil'Ann/02 Megalopolis Lil'Ann.png,"Game files, version 1.10.4",LilAnn_02
 03 Heroes/Costumes/Lil'Ann/03 Admiral Lil'Ann.png,"Game files, version 1.10.4",LilAnn_03
@@ -124,10 +124,10 @@ file,source,internal name
 03 Heroes/Costumes/Tempest/05 Megacorp Tempest.png,"Game files, version 1.10.4",Markus_05
 03 Heroes/Costumes/Tempest/06 Raritanium Tempest.png,"Game files, version 1.10.4",Markus_06
 03 Heroes/Costumes/Molly/00 Default.png,"Game files, version 1.10.4",Molly_00
-03 Heroes/Costumes/Molly/01 Costume 01.png,"Game files, version 1.10.4",Molly_01
-03 Heroes/Costumes/Molly/02 Costume 02.png,"Game files, version 1.10.4",Molly_02
-03 Heroes/Costumes/Molly/03 Costume 03.png,"Game files, version 1.10.4",Molly_03
-03 Heroes/Costumes/Molly/04 Costume 04.png,"Game files, version 1.10.4",Molly_04
+03 Heroes/Costumes/Molly/01 Costume.png,"Game files, version 1.10.4",Molly_01
+03 Heroes/Costumes/Molly/02 Costume.png,"Game files, version 1.10.4",Molly_02
+03 Heroes/Costumes/Molly/03 Costume.png,"Game files, version 1.10.4",Molly_03
+03 Heroes/Costumes/Molly/04 Costume.png,"Game files, version 1.10.4",Molly_04
 03 Heroes/Costumes/Molly/05 McMarx Sports Molly.png,"Game files, version 1.10.4",Molly_05
 03 Heroes/Costumes/Mopz/00 Default.png,"Game files, version 1.10.4",Mopz_00
 03 Heroes/Costumes/Mopz/04 Pirate Mopz.png,"Game files, version 1.10.4",Mopz_04
@@ -169,13 +169,6 @@ file,source,internal name
 03 Heroes/Costumes/Zed/03 Nefarious Zed.png,"Game files, version 1.10.4",ZedOne_03
 03 Heroes/Costumes/Zed/04 Blackwater Zed.png,"Game files, version 1.10.4",ZedOne_04
 03 Heroes/Costumes/Zed/05 Pirate Zed.png,"Game files, version 1.10.4",ZedOne_05
-03 Heroes/Mini Portraits/Chance.png,Collector archive (official concept art),ico_miniPortrait_Chance.png
-03 Heroes/Mini Portraits/Crumby.png,Collector archive (official concept art),ico_miniPortrait_Crumby.png
-03 Heroes/Mini Portraits/Flare.png,Collector archive (official concept art),ico_miniPortrait_Flare.png
-03 Heroes/Mini Portraits/Molly.png,Collector archive (official concept art),ico_miniPortrait_Molly.png
-03 Heroes/Mini Portraits/Nakari.png,Collector archive (official concept art),ico_miniPortrait_Nakari.png
-03 Heroes/Mini Portraits/Steeljaw.png,Collector archive (official concept art),ico_miniPortrait_Steeljaw.png
-03 Heroes/Mini Portraits/Terry.png,Collector archive (official concept art),ico_miniPortrait_Terry.png
 03 Heroes/Emblems/Celeste.png,"Game files, version 1.10.4",Logo_Celeste
 03 Heroes/Emblems/Chance.png,"Game files, version 1.10.4",Logo_Chance
 03 Heroes/Emblems/Chip.png,"Game files, version 1.10.4",Logo_Chip
@@ -194,11 +187,18 @@ file,source,internal name
 03 Heroes/Emblems/Steeljaw.png,"Game files, version 1.10.4",Logo_SteelJaw
 03 Heroes/Emblems/Terry.png,"Game files, version 1.10.4",Logo_Terry
 03 Heroes/Emblems/Zed.png,"Game files, version 1.10.4",Logo_ZedOne
+03 Heroes/Mini Portraits/Chance.png,Collector archive (official concept art),ico_miniPortrait_Chance.png
+03 Heroes/Mini Portraits/Crumby.png,Collector archive (official concept art),ico_miniPortrait_Crumby.png
+03 Heroes/Mini Portraits/Flare.png,Collector archive (official concept art),ico_miniPortrait_Flare.png
+03 Heroes/Mini Portraits/Molly.png,Collector archive (official concept art),ico_miniPortrait_Molly.png
+03 Heroes/Mini Portraits/Nakari.png,Collector archive (official concept art),ico_miniPortrait_Nakari.png
+03 Heroes/Mini Portraits/Steeljaw.png,Collector archive (official concept art),ico_miniPortrait_Steeljaw.png
+03 Heroes/Mini Portraits/Terry.png,Collector archive (official concept art),ico_miniPortrait_Terry.png
 04 Supporting Characters/Dialogue Portraits/Kit 01 (removed).png,"Game files, version 1.1.0",S_DialoguePortrait_Kit_01
-04 Supporting Characters/Dialogue Portraits/Ms. Zurkon 01 (removed).png,"Game files, version 1.1.0",S_DialoguePortrait_MsZurkon_01
-04 Supporting Characters/Dialogue Portraits/Ms. Zurkon 02 (removed).png,"Game files, version 1.1.0",S_DialoguePortrait_MsZurkon_02
-04 Supporting Characters/Dialogue Portraits/Ms. Zurkon 03.png,"Game files, version 1.1.0",S_DialoguePortrait_MsZurkon_03
-04 Supporting Characters/Dialogue Portraits/Ms. Zurkon 04.png,"Game files, version 1.1.0",S_DialoguePortrait_MsZurkon_04
+04 Supporting Characters/Dialogue Portraits/Mrs. Zurkon 01 (removed).png,"Game files, version 1.1.0",S_DialoguePortrait_MsZurkon_01
+04 Supporting Characters/Dialogue Portraits/Mrs. Zurkon 02 (removed).png,"Game files, version 1.1.0",S_DialoguePortrait_MsZurkon_02
+04 Supporting Characters/Dialogue Portraits/Mrs. Zurkon 03.png,"Game files, version 1.1.0",S_DialoguePortrait_MsZurkon_03
+04 Supporting Characters/Dialogue Portraits/Mrs. Zurkon 04.png,"Game files, version 1.1.0",S_DialoguePortrait_MsZurkon_04
 04 Supporting Characters/Dialogue Portraits/Qwark 02.png,"Game files, version 1.1.0",S_DialoguePortrait_Qwark_02
 04 Supporting Characters/Dialogue Portraits/Qwark 03.png,"Game files, version 1.1.0",S_DialoguePortrait_Qwark_03
 04 Supporting Characters/Dialogue Portraits/Ratchet 01.png,"Game files, version 1.1.0",S_DialoguePortrait_Ratchet_01
@@ -214,100 +214,100 @@ file,source,internal name
 04 Supporting Characters/Dialogue Portraits/Rivet 04 (removed).png,"Game files, version 1.1.0",S_DialoguePortrait_Rivet_04
 04 Supporting Characters/Characters/Clank.png,"Game files, version 1.10.4",UI_Dialogue_Portrait_Clank
 04 Supporting Characters/Characters/Rivet - Avatar.png,"Game files, version 1.1.0",avatar_portrait_Rivet
-04 Supporting Characters/Characters/Ms. Zurkon.png,"Game files, version 1.10.4",Character02
+04 Supporting Characters/Characters/Mrs. Zurkon.png,"Game files, version 1.10.4",Character02
 04 Supporting Characters/Characters/Reebo - Sad.png,"Game files, version 1.10.4",Character04
 04 Supporting Characters/Characters/Clank - Sad.png,"Game files, version 1.10.4",BG_SadClank
 04 Supporting Characters/Characters/Reebo.png,"Game files, version 1.4.2",gadgetron_body
 04 Supporting Characters/Characters/Reebo - Rare.png,"Game files, version 1.10.4",gadgetron_body_rare
 04 Supporting Characters/Characters/Reebo - Epic.png,"Game files, version 1.10.4",gadgetron_body_epic
-05 Weapons/Amoeboid Launcher.png,"Game files, version 1.10.4",WeaponIcon_AmoeboidLauncher
-"05 Weapons/Amoeboid Launcher (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_AmoeboidLauncher
-05 Weapons/Big Boom.png,"Game files, version 1.8.1",WeaponIcon_BigBoom
-"05 Weapons/Big Boom (early version, 1.4.2).png","Game files, version 1.4.2",WeaponIcon_BigBoom
-05 Weapons/Big Boom Remote.png,"Game files, version 1.4.2",WeaponIcon_BigBoomRemote
-"05 Weapons/Big Boom Remote (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_BigBoomRemote
-05 Weapons/Blaster.png,"Game files, version 1.10.4",WeaponIcon_Blaster_toon
-"05 Weapons/Blaster (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Blaster_toon
-05 Weapons/Blenderbuss.png,"Game files, version 1.10.4",WeaponIcon_Blenderbuss_toon
-"05 Weapons/Blenderbuss (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Blenderbuss_toon
-05 Weapons/Bombardier.png,"Game files, version 1.10.4",WeaponIcon_Bombardier
-"05 Weapons/Bombardier (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Bombardier
-05 Weapons/Buzzblades.png,"Game files, version 1.10.4",WeaponIcon_Buzzblades
-"05 Weapons/Buzzblades (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Buzzblades
-05 Weapons/Cannonball.png,"Game files, version 1.1.0",WeaponIcon_Cannonball_toon
-05 Weapons/Celeste - Melee.png,"Game files, version 1.10.4",WeaponIcon_CelesteMelee
-05 Weapons/Chance - Melee.png,"Game files, version 1.10.4",WeaponIcon_ChanceMelee
-05 Weapons/Chip - Melee.png,"Game files, version 1.10.4",WeaponIcon_ChipMelee
-05 Weapons/Cold Snap.png,"Game files, version 1.10.4",WeaponIcon_ColdSnap_toon
-"05 Weapons/Cold Snap (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_ColdSnap_toon
-05 Weapons/Cryoslider.png,"Game files, version 1.10.4",WeaponIcon_Cryoslider_toon
-"05 Weapons/Cryoslider (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Cryoslider_toon
-05 Weapons/Drill Dash.png,"Game files, version 1.10.4",WeaponIcon_DrillDash
-05 Weapons/Enforcer.png,"Game files, version 1.10.4",WeaponIcon_Enforcer
-"05 Weapons/Enforcer (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Enforcer
-05 Weapons/Evolution.png,"Game files, version 1.1.0",WeaponIcon_Evolution
-05 Weapons/Flare - Melee.png,"Game files, version 1.10.4",WeaponIcon_FlareMelee
-05 Weapons/Frost Cannon.png,"Game files, version 1.10.4",WeaponIcon_FrostCannon_toon
-05 Weapons/Sparky - Melee.png,"Game files, version 1.10.4",WeaponIcon_FuseMelee
-05 Weapons/Gatling.png,"Game files, version 1.10.4",WeaponIcon_Gatling_toon
-"05 Weapons/Gatling (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Gatling_toon
-05 Weapons/Glove Of Doom.png,"Game files, version 1.10.4",WeaponIcon_GloveOfDoom_toon
-"05 Weapons/Glove Of Doom (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_GloveOfDoom_toon
-05 Weapons/Grenade Launcher.png,"Game files, version 1.10.4",WeaponIcon_GrenadeLauncher_toon
-"05 Weapons/Grenade Launcher (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_GrenadeLauncher_toon
-05 Weapons/Grimshot - Melee.png,"Game files, version 1.10.4",WeaponIcon_GrimshotMelee
-05 Weapons/Headhunter.png,"Game files, version 1.10.4",WeaponIcon_Headhunter_toon
-"05 Weapons/Headhunter (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Headhunter_toon
-05 Weapons/Helen - Melee.png,"Game files, version 1.10.4",WeaponIcon_HelenMelee
-05 Weapons/Holoshield Glove.png,"Game files, version 1.10.4",WeaponIcon_HoloshieldGlove
-"05 Weapons/Holoshield Glove (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_HoloshieldGlove
-05 Weapons/Hover Boots.png,"Game files, version 1.10.4",WeaponIcon_HoverBoots_toon
-"05 Weapons/Hover Boots (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_HoverBoots_toon
-05 Weapons/Hoverboard.png,"Game files, version 1.10.4",WeaponIcon_Hoverboard
-"05 Weapons/Hoverboard (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Hoverboard
-05 Weapons/Lava Gun.png,"Game files, version 1.4.2",WeaponIcon_LavaGun
-"05 Weapons/Lava Gun (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_LavaGun
-05 Weapons/Little Spin.png,"Game files, version 1.10.4",WeaponIcon_LittleSpin
-05 Weapons/Lump - Melee.png,"Game files, version 1.10.4",WeaponIcon_LumpMelee
-05 Weapons/Tempest - Melee.png,"Game files, version 1.10.4",WeaponIcon_MarkusMelee
-05 Weapons/Mine Launcher.png,"Game files, version 1.10.4",WeaponIcon_MineLauncher_toon
-"05 Weapons/Mine Launcher (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_MineLauncher_toon
-05 Weapons/Molly - Melee.png,"Game files, version 1.10.4",WeaponIcon_MollyMelee
-05 Weapons/Mopz Grenade.png,"Game files, version 1.10.4",WeaponIcon_MopzGrenade
-05 Weapons/Mopz - Melee.png,"Game files, version 1.10.4",WeaponIcon_MopzMelee
-05 Weapons/Nakari - Melee.png,"Game files, version 1.10.4",WeaponIcon_NakariMelee
-05 Weapons/Negatron.png,"Game files, version 1.10.4",WeaponIcon_Negatron_toon
-"05 Weapons/Negatron (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Negatron_toon
-05 Weapons/Plasma Striker.png,"Game files, version 1.10.4",WeaponIcon_PlasmaStriker
-"05 Weapons/Plasma Striker (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_PlasmaStriker
-05 Weapons/Pyrocitor.png,"Game files, version 1.4.2",WeaponIcon_Pyrocitor
-"05 Weapons/Pyrocitor (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Pyrocitor
-05 Weapons/Saber.png,"Game files, version 1.10.4",WeaponIcon_Saber
-"05 Weapons/Saber (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Saber
-05 Weapons/Scorpion Flail.png,"Game files, version 1.10.4",WeaponIcon_ScorpionFlail_toon
-05 Weapons/Sheepinator.png,"Game files, version 1.10.4",WeaponIcon_Sheepinator_toon
-"05 Weapons/Sheepinator (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Sheepinator_toon
-05 Weapons/Slam.png,"Game files, version 1.10.4",WeaponIcon_Slam
-05 Weapons/Smoke Screen.png,"Game files, version 1.10.4",WeaponIcon_SmokeScreen
-05 Weapons/Spin.png,"Game files, version 1.10.4",WeaponIcon_Spin
-05 Weapons/Sprocket - Melee.png,"Game files, version 1.10.4",WeaponIcon_SprocketMelee
-05 Weapons/Steeljaw - Melee.png,"Game files, version 1.10.4",WeaponIcon_SteeljawMelee
-05 Weapons/Suck Cannon.png,"Game files, version 1.10.4",WeaponIcon_SuckCannon_toon
-"05 Weapons/Suck Cannon (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_SuckCannon_toon
-05 Weapons/Tank.png,"Game files, version 1.10.4",WeaponIcon_Tank
-05 Weapons/Terry - Melee.png,"Game files, version 1.10.4",WeaponIcon_TerryMelee
-05 Weapons/Tesla Claw.png,"Game files, version 1.10.4",WeaponIcon_TeslaClaw
-"05 Weapons/Tesla Claw (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_TeslaClaw
-05 Weapons/Toxic Splatter.png,"Game files, version 1.10.4",WeaponIcon_ToxicSplatter_toon
-"05 Weapons/Toxic Splatter (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_ToxicSplatter_toon
-05 Weapons/Void Repulser.png,"Game files, version 1.10.4",WeaponIcon_VoidRepulser_toon
-"05 Weapons/Void Repulser (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_VoidRepulser_toon
-05 Weapons/Warmonger.png,"Game files, version 1.10.4",WeaponIcon_Warmonger_toon
-"05 Weapons/Warmonger (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Warmonger_toon
-05 Weapons/Widget - Melee.png,"Game files, version 1.10.4",WeaponIcon_WidgetMelee
-05 Weapons/Wrench Throw.png,"Game files, version 1.10.4",WeaponIcon_WrenchThrow
-05 Weapons/Wrench.png,"Game files, version 1.10.4",WeaponIcon_Wrench_toon
-05 Weapons/Zed - Melee.png,"Game files, version 1.10.4",WeaponIcon_ZedOneMelee
+05 Weapons & Gadgets/Gadgets/Amoeboid Launcher.png,"Game files, version 1.10.4",WeaponIcon_AmoeboidLauncher
+"05 Weapons & Gadgets/Gadgets/Amoeboid Launcher (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_AmoeboidLauncher
+05 Weapons & Gadgets/Ultimates/Big Boom.png,"Game files, version 1.8.1",WeaponIcon_BigBoom
+"05 Weapons & Gadgets/Ultimates/Big Boom (early version, 1.4.2).png","Game files, version 1.4.2",WeaponIcon_BigBoom
+05 Weapons & Gadgets/Ultimates/Big Boom (remote).png,"Game files, version 1.4.2",WeaponIcon_BigBoomRemote
+"05 Weapons & Gadgets/Ultimates/Big Boom (remote) (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_BigBoomRemote
+05 Weapons & Gadgets/Weapons/Burst Pistol.png,"Game files, version 1.10.4",WeaponIcon_Blaster_toon
+"05 Weapons & Gadgets/Weapons/Burst Pistol (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Blaster_toon
+05 Weapons & Gadgets/Weapons/Blitz Gun.png,"Game files, version 1.10.4",WeaponIcon_Blenderbuss_toon
+"05 Weapons & Gadgets/Weapons/Blitz Gun (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Blenderbuss_toon
+05 Weapons & Gadgets/Gadgets/Bombardier.png,"Game files, version 1.10.4",WeaponIcon_Bombardier
+"05 Weapons & Gadgets/Gadgets/Bombardier (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Bombardier
+05 Weapons & Gadgets/Weapons/Buzz Blades.png,"Game files, version 1.10.4",WeaponIcon_Buzzblades
+"05 Weapons & Gadgets/Weapons/Buzz Blades (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Buzzblades
+05 Weapons & Gadgets/Ultimates/Good Ol' Shot.png,"Game files, version 1.1.0",WeaponIcon_Cannonball_toon
+05 Weapons & Gadgets/Melee Weapons/Slapshot (Celeste).png,"Game files, version 1.10.4",WeaponIcon_CelesteMelee
+05 Weapons & Gadgets/Melee Weapons/Glammer (Chance).png,"Game files, version 1.10.4",WeaponIcon_ChanceMelee
+05 Weapons & Gadgets/Melee Weapons/Brainstorm (Chip).png,"Game files, version 1.10.4",WeaponIcon_ChipMelee
+05 Weapons & Gadgets/Weapons/Cold Snap.png,"Game files, version 1.10.4",WeaponIcon_ColdSnap_toon
+"05 Weapons & Gadgets/Weapons/Cold Snap (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_ColdSnap_toon
+05 Weapons & Gadgets/Gadgets/Cryoslider.png,"Game files, version 1.10.4",WeaponIcon_Cryoslider_toon
+"05 Weapons & Gadgets/Gadgets/Cryoslider (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Cryoslider_toon
+05 Weapons & Gadgets/Gadgets/Drill Thruster.png,"Game files, version 1.10.4",WeaponIcon_DrillDash
+05 Weapons & Gadgets/Weapons/The Enforcer.png,"Game files, version 1.10.4",WeaponIcon_Enforcer
+"05 Weapons & Gadgets/Weapons/The Enforcer (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Enforcer
+05 Weapons & Gadgets/Ultimates/Mutagenic Burst.png,"Game files, version 1.1.0",WeaponIcon_Evolution
+05 Weapons & Gadgets/Melee Weapons/Orbital Mace (Flare).png,"Game files, version 1.10.4",WeaponIcon_FlareMelee
+05 Weapons & Gadgets/Weapons/Frost Cannon.png,"Game files, version 1.10.4",WeaponIcon_FrostCannon_toon
+05 Weapons & Gadgets/Melee Weapons/Crackaxe (Sparky).png,"Game files, version 1.10.4",WeaponIcon_FuseMelee
+05 Weapons & Gadgets/Weapons/Gatling.png,"Game files, version 1.10.4",WeaponIcon_Gatling_toon
+"05 Weapons & Gadgets/Weapons/Gatling (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Gatling_toon
+05 Weapons & Gadgets/Gadgets/Glove of Doom.png,"Game files, version 1.10.4",WeaponIcon_GloveOfDoom_toon
+"05 Weapons & Gadgets/Gadgets/Glove of Doom (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_GloveOfDoom_toon
+05 Weapons & Gadgets/Weapons/Shatterbomb.png,"Game files, version 1.10.4",WeaponIcon_GrenadeLauncher_toon
+"05 Weapons & Gadgets/Weapons/Shatterbomb (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_GrenadeLauncher_toon
+05 Weapons & Gadgets/Melee Weapons/X60 Cleaver (Grimshot).png,"Game files, version 1.10.4",WeaponIcon_GrimshotMelee
+05 Weapons & Gadgets/Weapons/Headhunter.png,"Game files, version 1.10.4",WeaponIcon_Headhunter_toon
+"05 Weapons & Gadgets/Weapons/Headhunter (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Headhunter_toon
+05 Weapons & Gadgets/Melee Weapons/Mossbreaker (Helen).png,"Game files, version 1.10.4",WeaponIcon_HelenMelee
+05 Weapons & Gadgets/Gadgets/Holoshield Glove.png,"Game files, version 1.10.4",WeaponIcon_HoloshieldGlove
+"05 Weapons & Gadgets/Gadgets/Holoshield Glove (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_HoloshieldGlove
+05 Weapons & Gadgets/Gadgets/Hoverboots.png,"Game files, version 1.10.4",WeaponIcon_HoverBoots_toon
+"05 Weapons & Gadgets/Gadgets/Hoverboots (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_HoverBoots_toon
+05 Weapons & Gadgets/Ultimates/Hoverboard.png,"Game files, version 1.10.4",WeaponIcon_Hoverboard
+"05 Weapons & Gadgets/Ultimates/Hoverboard (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Hoverboard
+05 Weapons & Gadgets/Weapons/Lava Gun.png,"Game files, version 1.4.2",WeaponIcon_LavaGun
+"05 Weapons & Gadgets/Weapons/Lava Gun (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_LavaGun
+05 Weapons & Gadgets/Gadgets/Whirling Blades.png,"Game files, version 1.10.4",WeaponIcon_LittleSpin
+05 Weapons & Gadgets/Melee Weapons/Glo-bash (Lump).png,"Game files, version 1.10.4",WeaponIcon_LumpMelee
+05 Weapons & Gadgets/Melee Weapons/Typhoon (Tempest).png,"Game files, version 1.10.4",WeaponIcon_MarkusMelee
+05 Weapons & Gadgets/Gadgets/Hunter Mine Launcher.png,"Game files, version 1.10.4",WeaponIcon_MineLauncher_toon
+"05 Weapons & Gadgets/Gadgets/Hunter Mine Launcher (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_MineLauncher_toon
+05 Weapons & Gadgets/Melee Weapons/Luminlance (Molly).png,"Game files, version 1.10.4",WeaponIcon_MollyMelee
+05 Weapons & Gadgets/Gadgets/Mopz Grenade.png,"Game files, version 1.10.4",WeaponIcon_MopzGrenade
+05 Weapons & Gadgets/Melee Weapons/SEV3R (Mopz).png,"Game files, version 1.10.4",WeaponIcon_MopzMelee
+05 Weapons & Gadgets/Melee Weapons/X-Ecutioner (Nakari).png,"Game files, version 1.10.4",WeaponIcon_NakariMelee
+05 Weapons & Gadgets/Ultimates/Negatron Collider.png,"Game files, version 1.10.4",WeaponIcon_Negatron_toon
+"05 Weapons & Gadgets/Ultimates/Negatron Collider (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Negatron_toon
+05 Weapons & Gadgets/Weapons/Plasma Striker.png,"Game files, version 1.10.4",WeaponIcon_PlasmaStriker
+"05 Weapons & Gadgets/Weapons/Plasma Striker (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_PlasmaStriker
+05 Weapons & Gadgets/Weapons/Pyrocitor.png,"Game files, version 1.4.2",WeaponIcon_Pyrocitor
+"05 Weapons & Gadgets/Weapons/Pyrocitor (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Pyrocitor
+05 Weapons & Gadgets/Ultimates/Vortex Wallop.png,"Game files, version 1.10.4",WeaponIcon_Saber
+"05 Weapons & Gadgets/Ultimates/Vortex Wallop (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Saber
+05 Weapons & Gadgets/Weapons/Scorpion Flail.png,"Game files, version 1.10.4",WeaponIcon_ScorpionFlail_toon
+05 Weapons & Gadgets/Ultimates/Sheep-O-Bomb.png,"Game files, version 1.10.4",WeaponIcon_Sheepinator_toon
+"05 Weapons & Gadgets/Ultimates/Sheep-O-Bomb (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Sheepinator_toon
+05 Weapons & Gadgets/Ultimates/Mega Strike.png,"Game files, version 1.10.4",WeaponIcon_Slam
+05 Weapons & Gadgets/Ultimates/Smoke Leap.png,"Game files, version 1.10.4",WeaponIcon_SmokeScreen
+05 Weapons & Gadgets/Ultimates/Spin.png,"Game files, version 1.10.4",WeaponIcon_Spin
+05 Weapons & Gadgets/Melee Weapons/Omnimagnet (Sprocket).png,"Game files, version 1.10.4",WeaponIcon_SprocketMelee
+05 Weapons & Gadgets/Melee Weapons/Doom Maul (Steeljaw).png,"Game files, version 1.10.4",WeaponIcon_SteeljawMelee
+05 Weapons & Gadgets/Weapons/Suck Cannon.png,"Game files, version 1.10.4",WeaponIcon_SuckCannon_toon
+"05 Weapons & Gadgets/Weapons/Suck Cannon (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_SuckCannon_toon
+05 Weapons & Gadgets/Ultimates/Tank Formation.png,"Game files, version 1.10.4",WeaponIcon_Tank
+05 Weapons & Gadgets/Melee Weapons/Squire's Mallet (Terry).png,"Game files, version 1.10.4",WeaponIcon_TerryMelee
+05 Weapons & Gadgets/Weapons/Tesla Claw.png,"Game files, version 1.10.4",WeaponIcon_TeslaClaw
+"05 Weapons & Gadgets/Weapons/Tesla Claw (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_TeslaClaw
+05 Weapons & Gadgets/Weapons/Toxic Splatter.png,"Game files, version 1.10.4",WeaponIcon_ToxicSplatter_toon
+"05 Weapons & Gadgets/Weapons/Toxic Splatter (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_ToxicSplatter_toon
+05 Weapons & Gadgets/Gadgets/Void Repulser.png,"Game files, version 1.10.4",WeaponIcon_VoidRepulser_toon
+"05 Weapons & Gadgets/Gadgets/Void Repulser (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_VoidRepulser_toon
+05 Weapons & Gadgets/Weapons/Warmonger.png,"Game files, version 1.10.4",WeaponIcon_Warmonger_toon
+"05 Weapons & Gadgets/Weapons/Warmonger (early version, 1.1.0).png","Game files, version 1.1.0",WeaponIcon_Warmonger_toon
+05 Weapons & Gadgets/Melee Weapons/Turbo Drill (Widget).png,"Game files, version 1.10.4",WeaponIcon_WidgetMelee
+05 Weapons & Gadgets/Gadgets/Throwable Wrench.png,"Game files, version 1.10.4",WeaponIcon_WrenchThrow
+05 Weapons & Gadgets/Weapons/Omniwrench.png,"Game files, version 1.10.4",WeaponIcon_Wrench_toon
+05 Weapons & Gadgets/Melee Weapons/Stick of Order (Zed).png,"Game files, version 1.10.4",WeaponIcon_ZedOneMelee
 06 Game Modes/Comic Strips/Last Stand 01.png,"Game files, version 1.10.4",gamemode_comicstrip_BattleRoyal01
 06 Game Modes/Comic Strips/Last Stand 02.png,"Game files, version 1.10.4",gamemode_comicstrip_BattleRoyal02
 06 Game Modes/Comic Strips/Blast Ball 01.png,"Game files, version 1.1.0",gamemode_comicstrip_BlastBall01
@@ -339,9 +339,9 @@ file,source,internal name
 06 Game Modes/Mode Art/Blast Ball 02.png,"Game files, version 1.1.0",Bg_GameMode_BlastBall_02
 06 Game Modes/Mode Art/Blast Ball 05.png,"Game files, version 1.1.0",Bg_GameMode_BlastBall_05
 06 Game Modes/Mode Art/Bolt Race 01.png,"Game files, version 1.1.0",Bg_GameMode_BoltKing_01
-06 Game Modes/Mode Art/Bolt Rush Coop 01.png,"Game files, version 1.1.0",Bg_GameMode_BoltRushCoop_01
-06 Game Modes/Mode Art/Bolt Rush Coop 04.png,"Game files, version 1.1.0",Bg_GameMode_BoltRushCoop_04
-06 Game Modes/Mode Art/Bolt Rush Coop 05.png,"Game files, version 1.1.0",Bg_GameMode_BoltRushCoop_05
+06 Game Modes/Mode Art/Bolt Rush Co-op 01.png,"Game files, version 1.1.0",Bg_GameMode_BoltRushCoop_01
+06 Game Modes/Mode Art/Bolt Rush Co-op 04.png,"Game files, version 1.1.0",Bg_GameMode_BoltRushCoop_04
+06 Game Modes/Mode Art/Bolt Rush Co-op 05.png,"Game files, version 1.1.0",Bg_GameMode_BoltRushCoop_05
 06 Game Modes/Mode Art/Bolt Rush 01.png,"Game files, version 1.1.0",Bg_GameMode_BoltRush_01
 06 Game Modes/Mode Art/Clank.png,"Game files, version 1.10.4",Bg_GameMode_Clank
 06 Game Modes/Mode Art/Total Rumble 01.png,"Game files, version 1.1.0",Bg_GameMode_FreeForAll_01
@@ -368,9 +368,45 @@ file,source,internal name
 "06 Game Modes/Mode Art/Total Rumble - Mopz (early version, 1.4.2).png","Game files, version 1.4.2",Bg_GameMode_TotalRumble_Mopz_01
 06 Game Modes/Mode Art/Total Rumble - Sparky.png,"Game files, version 1.10.4",Bg_GameMode_TotalRumble_Sparky_01
 "06 Game Modes/Mode Art/Total Rumble - Sparky (early version, 1.4.2).png","Game files, version 1.4.2",Bg_GameMode_TotalRumble_Sparky_01
+07 Worlds & Maps/Planets/Ardolis.png,"Game files, version 1.10.4",planet_Ardolis
+07 Worlds & Maps/Planets/Corson V.png,"Game files, version 1.10.4",planet_CorsonV
+07 Worlds & Maps/Planets/Sargasso.png,"Game files, version 1.10.4",planet_Sargasso
+07 Worlds & Maps/Planets/Torren IV.png,"Game files, version 1.10.4",planet_TorrenIV
+07 Worlds & Maps/Map Illustrations/Ardolis 01 (Blast Ball).png,"Game files, version 1.4.2",MapIllu_BB_Ardolis_01
+07 Worlds & Maps/Map Illustrations/Grand Stadium (Blast Ball).png,"Game files, version 1.4.2",MapIllu_BB_Megalopolis_01
+07 Worlds & Maps/Map Illustrations/Sunken Field (Blast Ball).png,"Game files, version 1.4.2",MapIllu_BB_Sargasso_01
+"07 Worlds & Maps/Map Illustrations/Sunken Field (Blast Ball) (early version, 1.1.0).png","Game files, version 1.1.0",MapIllu_BB_Sargasso_01
+07 Worlds & Maps/Map Illustrations/Clash of the Titans (Blast Ball).png,"Game files, version 1.4.2",MapIllu_BB_TorrenIV_01
+"07 Worlds & Maps/Map Illustrations/Clash of the Titans (Blast Ball) (early version, 1.1.0).png","Game files, version 1.1.0",MapIllu_BB_TorrenIV_01
+07 Worlds & Maps/Map Illustrations/Blackmarket (Bolt Race).png,"Game files, version 1.4.2",MapIllu_BK_Ardolis_01
+07 Worlds & Maps/Map Illustrations/Qwark Tower (Bolt Race).png,"Game files, version 1.4.2",MapIllu_BK_Megalopolis_01
+07 Worlds & Maps/Map Illustrations/Qwark Tower C (Bolt Race).png,"Game files, version 1.10.4",MapIllu_BK_Megalopolis_01C
+07 Worlds & Maps/Map Illustrations/Confetti Party (Bolt Race).png,"Game files, version 1.4.2",MapIllu_BK_Megalopolis_02
+07 Worlds & Maps/Map Illustrations/Transit Hub (Bolt Race).png,"Game files, version 1.10.4",MapIllu_BK_Megalopolis_02B
+07 Worlds & Maps/Map Illustrations/Biting Swamp (Bolt Race).png,"Game files, version 1.4.2",MapIllu_BK_Sargasso_01
+07 Worlds & Maps/Map Illustrations/Dismantling Centre (Bolt Race).png,"Game files, version 1.4.2",MapIllu_BK_TorrenIV_01
+07 Worlds & Maps/Map Illustrations/Dismantling Centre B (Bolt Race).png,"Game files, version 1.10.4",MapIllu_BK_TorrenIV_01B
+07 Worlds & Maps/Map Illustrations/Little Junktown (Bolt Race).png,"Game files, version 1.4.2",MapIllu_BK_TorrenIV_02
+07 Worlds & Maps/Map Illustrations/Pirate Hideout (Total Rumble).png,"Game files, version 1.4.2",MapIllu_FFA_Ardolis_01
+07 Worlds & Maps/Map Illustrations/Corson V 00 (Total Rumble).png,"Game files, version 1.4.2",MapIllu_FFA_Megalopolis_00
+07 Worlds & Maps/Map Illustrations/Shopping District (Total Rumble).png,"Game files, version 1.1.0",MapIllu_FFA_Megalopolis_01
+07 Worlds & Maps/Map Illustrations/Shopping District B (Total Rumble).png,"Game files, version 1.10.4",MapIllu_FFA_Megalopolis_01B
+"07 Worlds & Maps/Map Illustrations/Shopping District B (Total Rumble) (early version, 1.4.2).png","Game files, version 1.4.2",MapIllu_FFA_Megalopolis_01B
+07 Worlds & Maps/Map Illustrations/Train Station (Total Rumble).png,"Game files, version 1.1.0",MapIllu_FFA_Megalopolis_02
+07 Worlds & Maps/Map Illustrations/Train Station B (Total Rumble).png,"Game files, version 1.4.2",MapIllu_FFA_Megalopolis_02B
+07 Worlds & Maps/Map Illustrations/Gelatonium Factory (Total Rumble).png,"Game files, version 1.4.2",MapIllu_FFA_Sargasso_01
+07 Worlds & Maps/Map Illustrations/The Foundry (Total Rumble).png,"Game files, version 1.4.2",MapIllu_FFA_TorrenIV_01
+07 Worlds & Maps/Map Illustrations/Molonoth Gulch (Total Rumble).png,"Game files, version 1.4.2",MapIllu_FFA_TorrenIV_02
+07 Worlds & Maps/Map Illustrations/Molonoth Gulch B (Total Rumble).png,"Game files, version 1.10.4",MapIllu_FFA_TorrenIV_02B
+07 Worlds & Maps/Map Illustrations/Rangers Promenade (Boss Battle).png,"Game files, version 1.10.4",MapIllu_PVE_Megalopolis_01
+"07 Worlds & Maps/Map Illustrations/Rangers Promenade (Boss Battle, wide).png","Game files, version 1.10.4",MapIllu_PVE_Megalopolis_01_Wide
+07 Worlds & Maps/Map Illustrations/Grunthor Den (Boss Battle).png,"Game files, version 1.10.4",MapIllu_PVE_Sargasso_01
+"07 Worlds & Maps/Map Illustrations/Grunthor Den (Boss Battle, wide).png","Game files, version 1.10.4",MapIllu_PVE_Sargasso_01_Wide
+07 Worlds & Maps/Map Illustrations/Raritanium Excavation (Boss Battle).png,"Game files, version 1.10.4",MapIllu_PVE_TorrenIV_01
+"07 Worlds & Maps/Map Illustrations/Raritanium Excavation (Boss Battle, wide).png","Game files, version 1.10.4",MapIllu_PVE_TorrenIV_01_Wide
 07 Worlds & Maps/Adventure Track/Ardolis 01.png,"Game files, version 1.10.4",AdventureTrack_BG_Ardolis01
-07 Worlds & Maps/Adventure Track/Megalopolis 01.png,"Game files, version 1.10.4",AdventureTrack_BG_Megalopolis01
-07 Worlds & Maps/Adventure Track/Megalopolis 02.png,"Game files, version 1.10.4",AdventureTrack_BG_Megalopolis02_BB
+07 Worlds & Maps/Adventure Track/Corson V 01.png,"Game files, version 1.10.4",AdventureTrack_BG_Megalopolis01
+07 Worlds & Maps/Adventure Track/Corson V 02.png,"Game files, version 1.10.4",AdventureTrack_BG_Megalopolis02_BB
 07 Worlds & Maps/Adventure Track/Sargasso 01.png,"Game files, version 1.10.4",AdventureTrack_BG_Sargasso01
 07 Worlds & Maps/Adventure Track/Sargasso 02.png,"Game files, version 1.10.4",AdventureTrack_BG_Sargasso02
 07 Worlds & Maps/Adventure Track/Sargasso 03.png,"Game files, version 1.10.4",AdventureTrack_BG_Sargasso03_BB
@@ -381,50 +417,14 @@ file,source,internal name
 07 Worlds & Maps/Medal Run/Medal Run 03.png,"Game files, version 1.10.4",Bg_Medalrun03
 07 Worlds & Maps/Medal Run/Medal Run 04.png,"Game files, version 1.10.4",Bg_Medalrun04
 07 Worlds & Maps/Medal Run/Medal Run 05.png,"Game files, version 1.10.4",Bg_Medalrun05
-07 Worlds & Maps/Map Illustrations/Ardolis - Blast Ball 01.png,"Game files, version 1.4.2",MapIllu_BB_Ardolis_01
-07 Worlds & Maps/Map Illustrations/Megalopolis - Blast Ball 01.png,"Game files, version 1.4.2",MapIllu_BB_Megalopolis_01
-07 Worlds & Maps/Map Illustrations/Sargasso - Blast Ball 01.png,"Game files, version 1.4.2",MapIllu_BB_Sargasso_01
-"07 Worlds & Maps/Map Illustrations/Sargasso - Blast Ball 01 (early version, 1.1.0).png","Game files, version 1.1.0",MapIllu_BB_Sargasso_01
-07 Worlds & Maps/Map Illustrations/Torren IV - Blast Ball 01.png,"Game files, version 1.4.2",MapIllu_BB_TorrenIV_01
-"07 Worlds & Maps/Map Illustrations/Torren IV - Blast Ball 01 (early version, 1.1.0).png","Game files, version 1.1.0",MapIllu_BB_TorrenIV_01
-07 Worlds & Maps/Map Illustrations/Ardolis - Bolt Race 01.png,"Game files, version 1.4.2",MapIllu_BK_Ardolis_01
-07 Worlds & Maps/Map Illustrations/Megalopolis - Bolt Race 01.png,"Game files, version 1.4.2",MapIllu_BK_Megalopolis_01
-07 Worlds & Maps/Map Illustrations/Megalopolis - Bolt Race 01C.png,"Game files, version 1.10.4",MapIllu_BK_Megalopolis_01C
-07 Worlds & Maps/Map Illustrations/Megalopolis - Bolt Race 02.png,"Game files, version 1.4.2",MapIllu_BK_Megalopolis_02
-07 Worlds & Maps/Map Illustrations/Megalopolis - Bolt Race 02B.png,"Game files, version 1.10.4",MapIllu_BK_Megalopolis_02B
-07 Worlds & Maps/Map Illustrations/Sargasso - Bolt Race 01.png,"Game files, version 1.4.2",MapIllu_BK_Sargasso_01
-07 Worlds & Maps/Map Illustrations/Torren IV - Bolt Race 01.png,"Game files, version 1.4.2",MapIllu_BK_TorrenIV_01
-07 Worlds & Maps/Map Illustrations/Torren IV - Bolt Race 01B.png,"Game files, version 1.10.4",MapIllu_BK_TorrenIV_01B
-07 Worlds & Maps/Map Illustrations/Torren IV - Bolt Race 02.png,"Game files, version 1.4.2",MapIllu_BK_TorrenIV_02
-07 Worlds & Maps/Map Illustrations/Ardolis - Total Rumble 01.png,"Game files, version 1.4.2",MapIllu_FFA_Ardolis_01
-07 Worlds & Maps/Map Illustrations/Megalopolis - Total Rumble 00.png,"Game files, version 1.4.2",MapIllu_FFA_Megalopolis_00
-07 Worlds & Maps/Map Illustrations/Megalopolis - Total Rumble 01.png,"Game files, version 1.1.0",MapIllu_FFA_Megalopolis_01
-07 Worlds & Maps/Map Illustrations/Megalopolis - Total Rumble 01B.png,"Game files, version 1.10.4",MapIllu_FFA_Megalopolis_01B
-"07 Worlds & Maps/Map Illustrations/Megalopolis - Total Rumble 01B (early version, 1.4.2).png","Game files, version 1.4.2",MapIllu_FFA_Megalopolis_01B
-07 Worlds & Maps/Map Illustrations/Megalopolis - Total Rumble 02.png,"Game files, version 1.1.0",MapIllu_FFA_Megalopolis_02
-07 Worlds & Maps/Map Illustrations/Megalopolis - Total Rumble 02B.png,"Game files, version 1.4.2",MapIllu_FFA_Megalopolis_02B
-07 Worlds & Maps/Map Illustrations/Sargasso - Total Rumble 01.png,"Game files, version 1.4.2",MapIllu_FFA_Sargasso_01
-07 Worlds & Maps/Map Illustrations/Torren IV - Total Rumble 01.png,"Game files, version 1.4.2",MapIllu_FFA_TorrenIV_01
-07 Worlds & Maps/Map Illustrations/Torren IV - Total Rumble 02.png,"Game files, version 1.4.2",MapIllu_FFA_TorrenIV_02
-07 Worlds & Maps/Map Illustrations/Torren IV - Total Rumble 02B.png,"Game files, version 1.10.4",MapIllu_FFA_TorrenIV_02B
-07 Worlds & Maps/Map Illustrations/Megalopolis - Boss Battle 01.png,"Game files, version 1.10.4",MapIllu_PVE_Megalopolis_01
-07 Worlds & Maps/Map Illustrations/Megalopolis - Boss Battle 01 Wide.png,"Game files, version 1.10.4",MapIllu_PVE_Megalopolis_01_Wide
-07 Worlds & Maps/Map Illustrations/Sargasso - Boss Battle 01.png,"Game files, version 1.10.4",MapIllu_PVE_Sargasso_01
-07 Worlds & Maps/Map Illustrations/Sargasso - Boss Battle 01 Wide.png,"Game files, version 1.10.4",MapIllu_PVE_Sargasso_01_Wide
-07 Worlds & Maps/Map Illustrations/Torren IV - Boss Battle 01.png,"Game files, version 1.10.4",MapIllu_PVE_TorrenIV_01
-07 Worlds & Maps/Map Illustrations/Torren IV - Boss Battle 01 Wide.png,"Game files, version 1.10.4",MapIllu_PVE_TorrenIV_01_Wide
-07 Worlds & Maps/Planets/Ardolis.png,"Game files, version 1.10.4",planet_Ardolis
-07 Worlds & Maps/Planets/Corson V.png,"Game files, version 1.10.4",planet_CorsonV
-07 Worlds & Maps/Planets/Sargasso.png,"Game files, version 1.10.4",planet_Sargasso
-07 Worlds & Maps/Planets/Torren IV.png,"Game files, version 1.10.4",planet_TorrenIV
-07 Worlds & Maps/Loading Screens/Ardolis Loading Screen.png,"Game files, version 1.10.4",Bg_Ardolis_LoadingScreen
+07 Worlds & Maps/Loading Screens/Ardolis - Loading Screen.png,"Game files, version 1.10.4",Bg_Ardolis_LoadingScreen
 07 Worlds & Maps/Loading Screens/Ardolis.png,"Game files, version 1.10.4",Bg_Ardolis
 07 Worlds & Maps/Billboards/RYNO Billboard 1.png,"Game files, version 1.4.2",RYNOBillboard_01
 07 Worlds & Maps/Billboards/RYNO Billboard 2.png,"Game files, version 1.4.2",RYNOBillboard_02
 07 Worlds & Maps/Map Screenshots/Biting Swamp 1.png,Ratchet & Clank Wiki (Fandom),Biting Swamp screen 1.png
 07 Worlds & Maps/Map Screenshots/Biting Swamp 2.png,Ratchet & Clank Wiki (Fandom),Biting Swamp screen 2.png
-07 Worlds & Maps/Map Screenshots/Black Market 1.png,Ratchet & Clank Wiki (Fandom),Black Market screen 1.png
-07 Worlds & Maps/Map Screenshots/Black Market 2.png,Ratchet & Clank Wiki (Fandom),Black Market screen 2.png
+07 Worlds & Maps/Map Screenshots/Blackmarket 1.png,Ratchet & Clank Wiki (Fandom),Black Market screen 1.png
+07 Worlds & Maps/Map Screenshots/Blackmarket 2.png,Ratchet & Clank Wiki (Fandom),Black Market screen 2.png
 07 Worlds & Maps/Map Screenshots/Grand Stadium.png,Ratchet & Clank Wiki (Fandom),Grand Stadium screen.png
 07 Worlds & Maps/Map Screenshots/Grunthor Den.png,Ratchet & Clank Wiki (Fandom),Grunthor Den screen.png
 07 Worlds & Maps/Map Screenshots/Little Junktown.png,Ratchet & Clank Wiki (Fandom),Little Junktown screen.png
@@ -433,41 +433,41 @@ file,source,internal name
 07 Worlds & Maps/Map Screenshots/Molonoth Gulch 3.png,Ratchet & Clank Wiki (Fandom),Molonoth Gulch from RR screen 3.png
 07 Worlds & Maps/Map Screenshots/Pirate Hideout 1.png,Ratchet & Clank Wiki (Fandom),Pirate Hideout screen 1.png
 07 Worlds & Maps/Map Screenshots/Pirate Hideout 2.png,Ratchet & Clank Wiki (Fandom),Pirate Hideout screen 2.png
-07 Worlds & Maps/Map Screenshots/Qwark Tower beta.png,Ratchet & Clank Wiki (Fandom),Qwark Tower beta screen.png
+07 Worlds & Maps/Map Screenshots/Qwark Tower (beta).png,Ratchet & Clank Wiki (Fandom),Qwark Tower beta screen.png
 07 Worlds & Maps/Map Screenshots/Qwark Tower 1.png,Ratchet & Clank Wiki (Fandom),Qwark Tower screen 1.png
 07 Worlds & Maps/Map Screenshots/Qwark Tower 2.png,Ratchet & Clank Wiki (Fandom),Qwark Tower screen 2.png
 07 Worlds & Maps/Map Screenshots/Rangers Promenade.png,Ratchet & Clank Wiki (Fandom),Rangers Promenade screen.png
 07 Worlds & Maps/Map Screenshots/Raritanium Excavation.png,Ratchet & Clank Wiki (Fandom),Raritanium Excavation screen.png
 07 Worlds & Maps/Map Screenshots/Transit Hub 1.png,Ratchet & Clank Wiki (Fandom),Transit Hub 1.png
 07 Worlds & Maps/Map Screenshots/Transit Hub 2.png,Ratchet & Clank Wiki (Fandom),Transit Hub 2.png
-08 Story & Adventure/Player Journey/Journey (early) - Chapter 01.png,"Game files, version 1.10.4",Journey_Chapter01
-08 Story & Adventure/Player Journey/Journey (early) - Chapter 02 (removed).png,"Game files, version 1.4.2",Journey_Chapter02
-08 Story & Adventure/Player Journey/Journey (early) - Chapter 03 (removed).png,"Game files, version 1.4.2",Journey_Chapter03
-08 Story & Adventure/Player Journey/Journey (early) - Chapter 04 (removed).png,"Game files, version 1.4.2",Journey_Chapter04
-08 Story & Adventure/Player Journey/Player Journey - Chapter 01 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter01
-08 Story & Adventure/Player Journey/Player Journey - Chapter 02 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter02
-08 Story & Adventure/Player Journey/Player Journey - Chapter 03 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter03
-08 Story & Adventure/Player Journey/Player Journey - Chapter 04 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter04
-08 Story & Adventure/Player Journey/Player Journey - Chapter 05 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter05
-08 Story & Adventure/Player Journey/Player Journey - Chapter 06 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter06
-08 Story & Adventure/Player Journey/Player Journey - Chapter 07 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter07
-08 Story & Adventure/Player Journey/Player Journey - Chapter 09 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter09
-08 Story & Adventure/Player Journey/Player Journey - Chapter 11 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter11
-08 Story & Adventure/Player Journey/Player Journey - Chapter 12 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter12
-08 Story & Adventure/Player Journey/Player Journey - Chapter 14 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter14
-08 Story & Adventure/Player Journey/Player Journey - Chapter 16 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter16
-08 Story & Adventure/Player Journey/Player Journey - Chapter 18 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter18
-08 Story & Adventure/Player Journey/Player Journey - Chapter 19 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter19
-08 Story & Adventure/Player Journey/Player Journey - Chapter 20 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter20
-08 Story & Adventure/Player Journey/Player Journey - Chapter 21 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter21
-08 Story & Adventure/Player Journey/Player Journey - Chapter 22.png,"Game files, version 1.10.4",PlayerJourney_Chapter22
-"08 Story & Adventure/Player Journey/Player Journey - Chapter 22 (early version, 1.1.0).png","Game files, version 1.1.0",PlayerJourney_Chapter22
-08 Story & Adventure/Player Journey/Player Journey - Chapter 24 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter24
-08 Story & Adventure/Player Journey/Player Journey - Chapter 25 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter25
-08 Story & Adventure/Player Journey/Player Journey - Chapter 27 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter27
-08 Story & Adventure/Player Journey/Player Journey - Chapter 29 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter29
-08 Story & Adventure/Player Journey/Player Journey - Chapter 30.png,"Game files, version 1.10.4",PlayerJourney_Chapter30
-08 Story & Adventure/Player Journey/Player Journey - Chapter BoltKing (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter_BoltKing
+08 Story & Adventure/Player Journey/Chapter 01 (early version).png,"Game files, version 1.10.4",Journey_Chapter01
+08 Story & Adventure/Player Journey/Chapter 02 (early version).png,"Game files, version 1.4.2",Journey_Chapter02
+08 Story & Adventure/Player Journey/Chapter 03 (early version).png,"Game files, version 1.4.2",Journey_Chapter03
+08 Story & Adventure/Player Journey/Chapter 04 (early version).png,"Game files, version 1.4.2",Journey_Chapter04
+08 Story & Adventure/Player Journey/Chapter 01 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter01
+08 Story & Adventure/Player Journey/Chapter 02 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter02
+08 Story & Adventure/Player Journey/Chapter 03 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter03
+08 Story & Adventure/Player Journey/Chapter 04 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter04
+08 Story & Adventure/Player Journey/Chapter 05 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter05
+08 Story & Adventure/Player Journey/Chapter 06 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter06
+08 Story & Adventure/Player Journey/Chapter 07 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter07
+08 Story & Adventure/Player Journey/Chapter 09 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter09
+08 Story & Adventure/Player Journey/Chapter 11 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter11
+08 Story & Adventure/Player Journey/Chapter 12 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter12
+08 Story & Adventure/Player Journey/Chapter 14 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter14
+08 Story & Adventure/Player Journey/Chapter 16 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter16
+08 Story & Adventure/Player Journey/Chapter 18 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter18
+08 Story & Adventure/Player Journey/Chapter 19 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter19
+08 Story & Adventure/Player Journey/Chapter 20 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter20
+08 Story & Adventure/Player Journey/Chapter 21 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter21
+08 Story & Adventure/Player Journey/Chapter 22.png,"Game files, version 1.10.4",PlayerJourney_Chapter22
+"08 Story & Adventure/Player Journey/Chapter 22 (early version, 1.1.0).png","Game files, version 1.1.0",PlayerJourney_Chapter22
+08 Story & Adventure/Player Journey/Chapter 24 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter24
+08 Story & Adventure/Player Journey/Chapter 25 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter25
+08 Story & Adventure/Player Journey/Chapter 27 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter27
+08 Story & Adventure/Player Journey/Chapter 29 (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter29
+08 Story & Adventure/Player Journey/Chapter 30.png,"Game files, version 1.10.4",PlayerJourney_Chapter30
+08 Story & Adventure/Player Journey/Chapter Bolt Race (removed).png,"Game files, version 1.4.2",PlayerJourney_Chapter_BoltKing
 08 Story & Adventure/Tutorial/Tutorial - Blitz Gun.png,"Game files, version 1.10.4",FTUE_Blitzgun
 08 Story & Adventure/Tutorial/Tutorial - Qwark.png,"Game files, version 1.10.4",FTUE_QwarkPointing
 08 Story & Adventure/Tutorial/Tutorial - Reebo.png,"Game files, version 1.10.4",FTUE_Reebo
@@ -480,19 +480,19 @@ file,source,internal name
 09 Events/Ratchet - Expression 1.png,"Game files, version 1.10.4",Event01_Ratchet_04
 09 Events/Ratchet - Expression 2.png,"Game files, version 1.10.4",Event01_Ratchet_05
 09 Events/Ratchet - Expression 3.png,"Game files, version 1.10.4",Event01_Ratchet_06
-09 Events/Bolt Rush Event Emblem.png,"Game files, version 1.10.4",IcoEvent_BoltRush
-09 Events/Ms. Zurkon Event Emblem.png,"Game files, version 1.10.4",IcoEvent_Zurkon
-09 Events/Ms. Zurkon Card (removed).png,"Game files, version 1.8.1",CardZurkon
+09 Events/Bolt Rush - Emblem.png,"Game files, version 1.10.4",IcoEvent_BoltRush
+09 Events/Mrs. Zurkon - Emblem.png,"Game files, version 1.10.4",IcoEvent_Zurkon
+09 Events/Mrs. Zurkon - Card (removed).png,"Game files, version 1.8.1",CardZurkon
 09 Events/Rivet.png,"Game files, version 1.10.4",Bg_Event_Rivet1
 "09 Events/Rivet (early version, 1.10.3).png","Game files, version 1.10.3",Bg_Event_Rivet1
-09 Events/Rivet's Hustle Banner.png,"Game files, version 1.10.4",Bg_Event_Rivets
-09 Events/Mob Rush Banner.png,"Game files, version 1.10.4",Bg_pve
-10 Shop/Welcome Offer.png,"Game files, version 1.1.0",offers_welcome
-10 Shop/Heroes Offer.png,"Game files, version 1.1.0",offers_heroes
-10 Shop/Weapons Offer.png,"Game files, version 1.1.0",offers_weapons
-10 Shop/Resource Pack.png,"Game files, version 1.1.0",offers_ressourcePack
+09 Events/Rivet's Challenge - Banner.png,"Game files, version 1.10.4",Bg_Event_Rivets
+09 Events/Mob Rush - Banner.png,"Game files, version 1.10.4",Bg_pve
+10 Shop/Welcome Pack.png,"Game files, version 1.1.0",offers_welcome
+10 Shop/Heroes - Offer.png,"Game files, version 1.1.0",offers_heroes
+10 Shop/Weapons - Offer.png,"Game files, version 1.1.0",offers_weapons
+10 Shop/Resources.png,"Game files, version 1.1.0",offers_ressourcePack
 10 Shop/Season Pass.png,"Game files, version 1.1.0",offers_seasonPass
-10 Shop/Win Streak Offer.png,"Game files, version 1.1.0",offers_winStreak
+10 Shop/Win Streak.png,"Game files, version 1.1.0",offers_winStreak
 10 Shop/Comeback Offer.png,"Game files, version 1.1.0",offers_loseStreak
 10 Shop/Gadget Update.png,"Game files, version 1.10.4",gadgetupdate_image01
 11 Ranks & Medals/Medals/00 Underpaid Intern.png,"Game files, version 1.10.4",Medal00_UnderpaidIntern
@@ -511,9 +511,9 @@ file,source,internal name
 11 Ranks & Medals/Ranks/Underpaid Intern 1.png,"Game files, version 1.10.4",ico_Rank_UnderpaidIntern_01
 11 Ranks & Medals/Ranks/Underpaid Intern 2.png,"Game files, version 1.10.4",ico_Rank_UnderpaidIntern_02
 11 Ranks & Medals/Ranks/Underpaid Intern 3.png,"Game files, version 1.10.4",ico_Rank_UnderpaidIntern_03
-11 Ranks & Medals/Ranks/Up And Comer 1.png,"Game files, version 1.10.4",ico_Rank_UpAndComer_01
-11 Ranks & Medals/Ranks/Up And Comer 2.png,"Game files, version 1.10.4",ico_Rank_UpAndComer_02
-11 Ranks & Medals/Ranks/Up And Comer 3.png,"Game files, version 1.10.4",ico_Rank_UpAndComer_03
+11 Ranks & Medals/Ranks/Up-and-Comer 1.png,"Game files, version 1.10.4",ico_Rank_UpAndComer_01
+11 Ranks & Medals/Ranks/Up-and-Comer 2.png,"Game files, version 1.10.4",ico_Rank_UpAndComer_02
+11 Ranks & Medals/Ranks/Up-and-Comer 3.png,"Game files, version 1.10.4",ico_Rank_UpAndComer_03
 11 Ranks & Medals/Ranks/Weapon Tester 1.png,"Game files, version 1.10.4",ico_Rank_WeaponTester_01
 11 Ranks & Medals/Ranks/Weapon Tester 2.png,"Game files, version 1.10.4",ico_Rank_WeaponTester_02
 11 Ranks & Medals/Ranks/Weapon Tester 3.png,"Game files, version 1.10.4",ico_Rank_WeaponTester_03
