@@ -2,7 +2,11 @@
 
 A curated artbook-style archive of the artwork of *Ratchet & Clank: Ranger Rumble* (mobile), put together for preservation before the game's servers close on 1 May 2027.
 
+<<<<<<< Updated upstream
 **525 images**, sorted by theme.
+=======
+**607 images**, sorted by theme. Only real artwork is kept: no buttons, frames, HUD elements, effects or 3D textures.
+>>>>>>> Stashed changes
 
 ## Contents
 
@@ -14,7 +18,7 @@ A curated artbook-style archive of the artwork of *Ratchet & Clank: Ranger Rumbl
 | 04 Supporting Characters | 26 | Qwark, Ratchet, Rivet, Clank, Mrs. Zurkon, Reebo and their dialogue portraits |
 | 05 Weapons & Gadgets | 88 | Weapons, melee weapons, gadgets and ultimates, with their early designs from version 1.1.0 |
 | 06 Game Modes | 60 | Comic-strip mode artwork and mode card illustrations |
-| 07 Worlds & Maps | 72 | Planets, map illustrations, adventure track and Medal Run backdrops, map screenshots |
+| 07 Worlds & Maps | 154 | Planets, map illustrations, adventure track and Medal Run backdrops, map screenshots, map layouts |
 | 08 Story & Adventure | 33 | Player Journey chapter banners and tutorial art |
 | 09 Events | 14 | Event characters, emblems and banners |
 | 10 Shop | 8 | Shop offer illustrations |
@@ -31,6 +35,7 @@ A curated artbook-style archive of the artwork of *Ratchet & Clank: Ranger Rumbl
 - **Game files** of versions 1.1.0, 1.4.2, 1.8.1, 1.9.3, 1.10.2, 1.10.3 and 1.10.4. For each picture the sharpest copy across all versions was kept.
 - **Ratchet & Clank Wiki (Fandom)**: promotional renders, part of the concept art, promotional screenshots and map screenshots.
 - **Collector archive**: hero turnarounds and concept art not published anywhere else.
+- **Downloadable content** of versions 0.10.7 (before the official release) to 1.7.4: the map layouts, including maps that never shipped.
 
 `sources.csv` lists the source of every file.
 

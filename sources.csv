@@ -440,6 +440,88 @@ file,source,internal name
 07 Worlds & Maps/Map Screenshots/Raritanium Excavation.png,Ratchet & Clank Wiki (Fandom),Raritanium Excavation screen.png
 07 Worlds & Maps/Map Screenshots/Transit Hub 1.png,Ratchet & Clank Wiki (Fandom),Transit Hub 1.png
 07 Worlds & Maps/Map Screenshots/Transit Hub 2.png,Ratchet & Clank Wiki (Fandom),Transit Hub 2.png
+07 Worlds & Maps/Map Layouts/Ardolis 01 (Blast Ball).png,"Game files, version 1.3.2",q_BB_Ardolis_01_minimap
+"07 Worlds & Maps/Map Layouts/Ardolis 01 (Blast Ball) (early version, 0.10.7).png","Game files, version 0.10.7",q_BB_Ardolis_01_minimap
+07 Worlds & Maps/Map Layouts/Grand Stadium (Blast Ball).png,"Game files, version 0.10.7",q_BB_Megalopolis_01_minimap
+07 Worlds & Maps/Map Layouts/Sunken Field (Blast Ball).png,"Game files, version 1.4.2",q_BB_Sargasso_01_minimap
+"07 Worlds & Maps/Map Layouts/Sunken Field (Blast Ball) (early version, 0.10.7).png","Game files, version 0.10.7",q_BB_Sargasso_01_minimap
+07 Worlds & Maps/Map Layouts/Clash of the Titans (Blast Ball).png,"Game files, version 1.4.2",q_BB_TorrenIV_01_minimap
+"07 Worlds & Maps/Map Layouts/Clash of the Titans (Blast Ball) (early version, 0.10.7).png","Game files, version 0.10.7",q_BB_TorrenIV_01_minimap
+07 Worlds & Maps/Map Layouts/Blackmarket (Bolt Race).png,"Game files, version 0.10.7",q_BK_Ardolis_01_minimap
+07 Worlds & Maps/Map Layouts/Qwark's Training Zone (Bolt Race).png,"Game files, version 1.3.2",q_BK_Megalopolis_00_minimap
+"07 Worlds & Maps/Map Layouts/Qwark's Training Zone (Bolt Race) (early version, 1.0.1).png","Game files, version 1.0.1",q_BK_Megalopolis_00_minimap
+"07 Worlds & Maps/Map Layouts/Qwark's Training Zone (Bolt Race) (early version, 0.10.7).png","Game files, version 0.10.7",q_BK_Megalopolis_00_minimap
+07 Worlds & Maps/Map Layouts/Qwark Tower B (Bolt Race).png,"Game files, version 0.10.7",q_BK_Megalopolis_01B_minimap
+07 Worlds & Maps/Map Layouts/Qwark Tower C (Bolt Race).png,"Game files, version 1.4.0",q_BK_Megalopolis_01C_minimap
+07 Worlds & Maps/Map Layouts/Qwark Tower (Bolt Race).png,"Game files, version 1.7.4",q_BK_Megalopolis_01_minimap
+07 Worlds & Maps/Map Layouts/Confetti Party (Bolt Race).png,"Game files, version 1.3.2",q_BK_Megalopolis_02_minimap
+"07 Worlds & Maps/Map Layouts/Confetti Party (Bolt Race) (early version, 0.10.7).png","Game files, version 0.10.7",q_BK_Megalopolis_02_minimap
+07 Worlds & Maps/Map Layouts/Biting Swamp (Bolt Race).png,"Game files, version 1.7.4",q_BK_Sargasso_01_minimap
+"07 Worlds & Maps/Map Layouts/Biting Swamp (Bolt Race) (early version, 0.10.7).png","Game files, version 0.10.7",q_BK_Sargasso_01_minimap
+07 Worlds & Maps/Map Layouts/Dismantling Centre B (Bolt Race).png,"Game files, version 1.6.4",q_BK_TorrenIV_01B_minimap
+07 Worlds & Maps/Map Layouts/Dismantling Centre (Bolt Race).png,"Game files, version 1.7.4",q_BK_TorrenIV_01_minimap
+"07 Worlds & Maps/Map Layouts/Dismantling Centre (Bolt Race) (early version, 0.10.7).png","Game files, version 0.10.7",q_BK_TorrenIV_01_minimap
+07 Worlds & Maps/Map Layouts/Little Junktown B (Bolt Race).png,"Game files, version 1.6.4",q_BK_TorrenIV_02B_minimap
+07 Worlds & Maps/Map Layouts/Little Junktown (Bolt Race).png,"Game files, version 1.7.4",q_BK_TorrenIV_02_minimap
+"07 Worlds & Maps/Map Layouts/Little Junktown (Bolt Race) (early version, 0.10.7).png","Game files, version 0.10.7",q_BK_TorrenIV_02_minimap
+07 Worlds & Maps/Map Layouts/Ardolis 01B (Last Stand).png,"Game files, version 1.7.4",q_EL_Ardolis_01B_minimap
+07 Worlds & Maps/Map Layouts/Ardolis 01 (Last Stand).png,"Game files, version 1.7.4",q_EL_Ardolis_01_minimap
+07 Worlds & Maps/Map Layouts/Corson V 00 (Last Stand).png,"Game files, version 1.6.4",q_EL_Megalopolis_00_minimap
+07 Worlds & Maps/Map Layouts/Corson V 01C (Last Stand).png,"Game files, version 1.6.4",q_EL_Megalopolis_01C_minimap
+07 Worlds & Maps/Map Layouts/Corson V 02B (Last Stand).png,"Game files, version 1.6.4",q_EL_Megalopolis_02B_minimap
+07 Worlds & Maps/Map Layouts/Prototype 01 (Last Stand).png,"Game files, version 1.7.4",q_EL_Prototype_01_minimap
+07 Worlds & Maps/Map Layouts/Sargasso 01 (Last Stand).png,"Game files, version 1.7.4",q_EL_Sargasso_01_minimap
+07 Worlds & Maps/Map Layouts/Torren IV 01 (Last Stand).png,"Game files, version 1.6.4",q_EL_TorrenIV_01_minimap
+07 Worlds & Maps/Map Layouts/Torren IV 02 (Last Stand).png,"Game files, version 1.6.4",q_EL_TorrenIV_02_minimap
+"07 Worlds & Maps/Map Layouts/Corson V 01 (Total Rumble, 6 players).png","Game files, version 1.3.2",q_FFA6P_Megalopolis_01_minimap
+07 Worlds & Maps/Map Layouts/Pirate Hideout B (Total Rumble).png,"Game files, version 1.7.4",q_FFA_Ardolis_01B_minimap
+07 Worlds & Maps/Map Layouts/Pirate Hideout (Total Rumble).png,"Game files, version 1.7.4",q_FFA_Ardolis_01_minimap
+"07 Worlds & Maps/Map Layouts/Pirate Hideout (Total Rumble) (early version, 0.10.7).png","Game files, version 0.10.7",q_FFA_Ardolis_01_minimap
+07 Worlds & Maps/Map Layouts/The Pirate Trials (Total Rumble).png,"Game files, version 1.3.2",q_FFA_Ardolis_02_minimap
+"07 Worlds & Maps/Map Layouts/The Pirate Trials (Total Rumble) (early version, 1.2.2).png","Game files, version 1.2.2",q_FFA_Ardolis_02_minimap
+07 Worlds & Maps/Map Layouts/Corson V 00 (Total Rumble).png,"Game files, version 1.3.2",q_FFA_Megalopolis_00_minimap
+07 Worlds & Maps/Map Layouts/Shopping District B (Total Rumble).png,"Game files, version 1.4.0",q_FFA_Megalopolis_01B_minimap
+07 Worlds & Maps/Map Layouts/Shopping District (Total Rumble).png,"Game files, version 0.10.7",q_FFA_Megalopolis_01_minimap
+07 Worlds & Maps/Map Layouts/Train Station B (Total Rumble).png,"Game files, version 1.4.0",q_FFA_Megalopolis_02B_minimap
+07 Worlds & Maps/Map Layouts/Train Station (Total Rumble).png,"Game files, version 1.4.0",q_FFA_Megalopolis_02_minimap
+"07 Worlds & Maps/Map Layouts/Train Station (Total Rumble) (early version, 0.10.7).png","Game files, version 0.10.7",q_FFA_Megalopolis_02_minimap
+07 Worlds & Maps/Map Layouts/Gelatonium Factory B (Total Rumble).png,"Game files, version 1.6.4",q_FFA_Sargasso_01B_minimap
+07 Worlds & Maps/Map Layouts/Gelatonium Factory (Total Rumble).png,"Game files, version 0.10.7",q_FFA_Sargasso_01_minimap
+07 Worlds & Maps/Map Layouts/Rivet's Hideout (Total Rumble).png,"Game files, version 1.3.2",q_FFA_Sargasso_02_minimap
+"07 Worlds & Maps/Map Layouts/Rivet's Hideout (Total Rumble) (early version, 1.2.2).png","Game files, version 1.2.2",q_FFA_Sargasso_02_minimap
+07 Worlds & Maps/Map Layouts/The Foundry B (Total Rumble).png,"Game files, version 1.7.4",q_FFA_TorrenIV_01B_minimap
+"07 Worlds & Maps/Map Layouts/The Foundry B (Total Rumble) (early version, 1.5.3).png","Game files, version 1.5.3",q_FFA_TorrenIV_01B_minimap
+"07 Worlds & Maps/Map Layouts/The Foundry B (Total Rumble) (early version, 1.4.2).png","Game files, version 1.4.2",q_FFA_TorrenIV_01B_minimap
+07 Worlds & Maps/Map Layouts/The Foundry (Total Rumble).png,"Game files, version 1.7.4",q_FFA_TorrenIV_01_minimap
+"07 Worlds & Maps/Map Layouts/The Foundry (Total Rumble) (early version, 0.10.7).png","Game files, version 0.10.7",q_FFA_TorrenIV_01_minimap
+07 Worlds & Maps/Map Layouts/Molonoth Gulch B (Total Rumble).png,"Game files, version 1.7.4",q_FFA_TorrenIV_02B_minimap
+"07 Worlds & Maps/Map Layouts/Molonoth Gulch B (Total Rumble) (early version, 1.4.2).png","Game files, version 1.4.2",q_FFA_TorrenIV_02B_minimap
+07 Worlds & Maps/Map Layouts/Molonoth Gulch (Total Rumble).png,"Game files, version 0.10.7",q_FFA_TorrenIV_02_minimap
+07 Worlds & Maps/Map Layouts/Torren IV 03 (Total Rumble).png,"Game files, version 1.1.1",q_FFA_TorrenIV_03_minimap
+07 Worlds & Maps/Map Layouts/Rangers Promenade (Boss Battle).png,"Game files, version 1.7.4",q_PVE_Megalopolis_01_minimap
+"07 Worlds & Maps/Map Layouts/Rangers Promenade (Boss Battle) (early version, 1.6.4).png","Game files, version 1.6.4",q_PVE_Megalopolis_01_minimap
+"07 Worlds & Maps/Map Layouts/Rangers Promenade (Boss Battle) (early version, 0.10.7).png","Game files, version 0.10.7",q_PVE_Megalopolis_01_minimap
+07 Worlds & Maps/Map Layouts/Grunthor Den (Boss Battle).png,"Game files, version 1.7.4",q_PVE_Sargasso_01_minimap
+"07 Worlds & Maps/Map Layouts/Grunthor Den (Boss Battle) (early version, 1.6.1).png","Game files, version 1.6.1",q_PVE_Sargasso_01_minimap
+07 Worlds & Maps/Map Layouts/Raritanium Excavation (Boss Battle).png,"Game files, version 1.7.4",q_PVE_TorrenIV_01_minimap
+07 Worlds & Maps/Map Layouts/Corson V 01 (QB).png,"Game files, version 1.2.2",q_QB_Megalopolis_01_minimap
+07 Worlds & Maps/Map Layouts/Prototype 01 (Mob Rush).png,"Game files, version 1.10.4",q_SS_Proto_01_minimap
+07 Worlds & Maps/Map Layouts/Ardolis 02 (Team Total Rumble).png,"Game files, version 1.3.2",q_TTR_Ardolis_02_minimap
+07 Worlds & Maps/Map Layouts/Corson V 00 (Team Total Rumble).png,"Game files, version 1.6.4",q_TTR_Megalopolis_00_minimap
+"07 Worlds & Maps/Map Layouts/Corson V 00 (Team Total Rumble) (early version, 1.1.1).png","Game files, version 1.1.1",q_TTR_Megalopolis_00_minimap
+07 Worlds & Maps/Map Layouts/Corson V 01B (Team Total Rumble).png,"Game files, version 1.4.2",q_TTR_Megalopolis_01B_minimap
+07 Worlds & Maps/Map Layouts/Corson V 01 (Team Total Rumble).png,"Game files, version 1.2.2",q_TTR_Megalopolis_01_minimap
+07 Worlds & Maps/Map Layouts/Corson V 02B (Team Total Rumble).png,"Game files, version 1.6.4",q_TTR_Megalopolis_02B_minimap
+07 Worlds & Maps/Map Layouts/Corson V 02 (Team Total Rumble).png,"Game files, version 1.4.1",q_TTR_Megalopolis_02_minimap
+07 Worlds & Maps/Map Layouts/Sargasso 01 (Team Total Rumble).png,"Game files, version 1.2.2",q_TTR_Sargasso_01_minimap
+07 Worlds & Maps/Map Layouts/Torren IV 01 (Team Total Rumble).png,"Game files, version 1.2.2",q_TTR_TorrenIV_01_minimap
+07 Worlds & Maps/Map Layouts/Torren IV 02B (Team Total Rumble).png,"Game files, version 1.6.4",q_TTR_TorrenIV_02B_minimap
+07 Worlds & Maps/Map Layouts/Torren IV 02 (Team Total Rumble).png,"Game files, version 1.2.2",q_TTR_TorrenIV_02_minimap
+07 Worlds & Maps/Map Layouts/Tutorial.png,"Game files, version 1.4.2",q_TUTO_minimap
+07 Worlds & Maps/Map Layouts/Test map (Blast Ball).png,"Game files, version 1.10.4",quantum_Test_BlastBall_minimap
+07 Worlds & Maps/Map Layouts/Test map (Bolt Rush Co-op).png,"Game files, version 1.10.4",quantum_Test_BoltRushCoop_minimap
+07 Worlds & Maps/Map Layouts/Test map (Bolt Rush).png,"Game files, version 1.10.4",quantum_Test_BoltRush_minimap
+07 Worlds & Maps/Map Layouts/Test map (Mobs).png,"Game files, version 1.10.4",quantum_Test_Mobs_minimap
 08 Story & Adventure/Player Journey/Chapter 01 (early version).png,"Game files, version 1.10.4",Journey_Chapter01
 08 Story & Adventure/Player Journey/Chapter 02 (early version).png,"Game files, version 1.4.2",Journey_Chapter02
 08 Story & Adventure/Player Journey/Chapter 03 (early version).png,"Game files, version 1.4.2",Journey_Chapter03
