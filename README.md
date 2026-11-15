@@ -2,7 +2,7 @@
 
 A curated artbook-style archive of the artwork of *Ratchet & Clank: Ranger Rumble* (mobile), put together for preservation before the game's servers close on 1 May 2027.
 
-**607 images**, sorted by theme.
+**604 images**, sorted by theme.
 
 ## Contents
 
@@ -14,7 +14,7 @@ A curated artbook-style archive of the artwork of *Ratchet & Clank: Ranger Rumbl
 | 04 Supporting Characters | 26 | Qwark, Ratchet, Rivet, Clank, Mrs. Zurkon, Reebo and their dialogue portraits |
 | 05 Weapons & Gadgets | 88 | Weapons, melee weapons, gadgets and ultimates, with their early designs from version 1.1.0 |
 | 06 Game Modes | 60 | Comic-strip mode artwork and mode card illustrations |
-| 07 Worlds & Maps | 154 | Planets, map illustrations, adventure track and Medal Run backdrops, map screenshots, map layouts |
+| 07 Worlds & Maps | 151 | Planets, map illustrations, adventure track and Medal Run backdrops, map screenshots, map layouts |
 | 08 Story & Adventure | 33 | Player Journey chapter banners and tutorial art |
 | 09 Events | 14 | Event characters, emblems and banners |
 | 10 Shop | 8 | Shop offer illustrations |
